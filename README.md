@@ -10,3 +10,6 @@ I used Flask web framework in built in Python to put in on web.
 *In the create.py file I created two files for future uses one data.csv and other a numpy matrix.
 
 *The application is run from the main.py file.
+
+https://varrecommendationsystem.herokuapp.com/
+
